@@ -26,7 +26,7 @@ This project predicts whether a passenger survived the Titanic disaster using Lo
 
 ## 🎥 Demo
 
-(Add your screenshots or output images here)
+
 
 Example:
 
@@ -34,13 +34,12 @@ Example:
 * Confusion Matrix
 * Heatmap Visualization
 
-You can upload images in your repo and display like this:
+
 
 ```md
-![Accuracy](images/accuracy.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Heatmap](images/heatmap.png)
-```
+![Accuracy](accuracy.png)
+![Confusion Matrix](confusion_matrix.png)
+![Heatmap](heatmap.png)
 
 ---
 
