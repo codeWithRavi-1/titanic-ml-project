@@ -23,25 +23,11 @@ This project predicts whether a passenger survived the Titanic disaster using Lo
 * Includes confusion matrix and classification report
 
 ---
-
 ## 🎥 Demo
 
-
-
-Example:
-
-* Model Accuracy Output
-* Confusion Matrix
-* Heatmap Visualization
-
-
-
-```md
 ![Accuracy](accuracy.png)
 ![Confusion Matrix](confusion_matrix.png)
 ![Heatmap](heatmap.png)
-
----
 
 ## ▶️ How to Run
 
